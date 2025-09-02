@@ -5,8 +5,8 @@ I’m a full-stack developer passionate about turning ideas into functional and 
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yanesabdelkader/) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaderyanes96@gmail.com)
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/yanesabdelkader/)
+[![Gmail](https://img.icons8.com/color/48/000000/gmail--v1.png)](mailto:kaderyanes96@gmail.com)
 
 
 # 💻 Tech Stack:
